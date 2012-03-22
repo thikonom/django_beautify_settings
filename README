@@ -1,7 +1,7 @@
 A tiny script that removes all the ( unnecessary ) comments from django's settings.py
 and renders it's content in a pretty/readable format.
 
-How to use it
+How to use it:
 ==============
 
 1) Provide the path of settings.py from command line: python clean_settings.py /Users/username/django-project/settings.py
