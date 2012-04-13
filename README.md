@@ -4,7 +4,7 @@ and renders its content in a pretty/readable format.
 How to use it:
 --------------
 
-1) Provide the full path of settings.py file from the command line: 
+1) Provide the full path of settings.py file from the command line::
     python clean_settings.py /Users/username/django-project/settings.py
 
 or
