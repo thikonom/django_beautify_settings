@@ -1,5 +1,5 @@
-A tiny script that removes all the ( unnecessary ) comments from django's DEFAULT settings.py
-and renders its content in a pretty/readable format.
+A tiny script that removes all the redundant comments from django's DEFAULT settings.py
+and renders its content in a more readable way.
 
 How to use it:
 --------------
